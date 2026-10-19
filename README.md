@@ -1,6 +1,6 @@
-# CS 320 Course Projects
+# Data Science Programming II Projects
 
-My CS 320 coursework at the University of Wisconsin–Madison, Spring 2026.
+My projects for Data Science Programming II at the University of Wisconsin–Madison, Spring 2026.
 
 This private repository collects all eight project submissions in one place. The original assignment instructions, supporting data, tests, and contributor information are preserved within each project folder.
 
