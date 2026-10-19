@@ -1,0 +1,37 @@
+<html>
+ <head>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+      function subscribe() {
+        var email = prompt("What is your email?", "????");
+
+        $.post({
+          type: "POST",
+          url: "email",
+          data: email,
+          contentType: "application/text; charset=utf-8",
+          dataType: "json"
+        }).done(function(data) {
+          alert(data);
+        }).fail(function(data) {
+          alert("POST failed");
+        });
+      }
+    </script>
+  </head>
+
+  <body>
+    <h1>Welcome!</h1>
+    <ul>
+      <li><a href="browse.html">Browse</a></li>
+      <li><a href="donate.html?from=A">Donate</a></li>
+    </ul>
+    <p>Enjoy the data.</p>
+    <button onclick="subscribe()">Subscribe</button>
+    <ul>
+    <li><img src="dashboard1.svg"><br><br></li>
+    <li><img src="dashboard1.svg?bins=100"><br><br></li>
+    <li><img src="dashboard2.svg"><br><br></li>
+    </ul>
+  </body>
+</html>

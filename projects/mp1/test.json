@@ -1,0 +1,31 @@
+{
+  "score": 0,
+  "errors": [
+    "Question 1:\n---------------\nExpected type to be type, but found NoneType",
+    "Question 2:\n---------------\nExpected type to be bool, but found NoneType",
+    "Question 3:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 4:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 5:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 6:\n---------------\nExpected type to be list, but found NoneType",
+    "Question 7:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 8:\n---------------\nExpected type to be list, but found NoneType",
+    "Question 9:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 10:\n---------------\nExpected type to be list, but found NoneType",
+    "Question 11:\n---------------\nExpected type to be float, but found NoneType",
+    "Question 12:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 13: expected output to be \"Could not convert string to int.\", but found \"\".",
+    "Question 14: expected output to be \"Error with your input argument.\", but found \"\".",
+    "Question 15:\n---------------\nExpected type to be list, but found NoneType",
+    "Question 16:\n---------------\nExpected type to be float, but found NoneType",
+    "Question 17:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 18:\n---------------\nExpected type to be int, but found NoneType",
+    "Question 19:\n---------------\nExpected type to be float, but found NoneType",
+    "Question 20:\n---------------\nExpected type to be dict, but found NoneType",
+    "Question 21:\n---------------\nExpected type to be Figure, but found NoneType",
+    "Question 22:\n---------------\nExpected type to be Figure, but found NoneType",
+    "Question 23:\n---------------\nExpected type to be Figure, but found NoneType"
+  ],
+  "hardcoding": [],
+  "missing": [],
+  "summary": "Result: 0 of 23 passed, for a score of 0%."
+}

@@ -1,0 +1,318 @@
+Model,Year,Region,Color,Fuel_Type,Transmission,Engine_Size_L,Mileage_KM,Price_USD,Sales_Volume,Sales_Classification
+M5,2024,North America,Black,Diesel,Manual,2.7,143885,90388,7944,High
+M5,2024,Middle East,White,Hybrid,Automatic,2.1,43892,84569,4431,Low
+M5,2024,South America,Blue,Petrol,Manual,2.0,32207,35232,4545,Low
+M5,2024,South America,Blue,Electric,Manual,2.0,155175,76924,1796,Low
+M5,2024,Europe,Black,Diesel,Automatic,3.9,70998,59653,2064,Low
+M5,2024,Asia,Silver,Electric,Automatic,3.0,149252,76673,9265,High
+M5,2024,Asia,Silver,Petrol,Manual,3.2,105447,43118,3087,Low
+M5,2024,Asia,Blue,Petrol,Automatic,2.4,139076,88696,1424,Low
+M5,2024,North America,Red,Electric,Automatic,3.4,77196,110736,5858,Low
+M5,2024,Europe,Red,Diesel,Manual,2.2,123289,99965,8472,High
+M5,2024,Africa,Grey,Hybrid,Automatic,2.3,171100,42298,8645,High
+M5,2024,Europe,Black,Petrol,Manual,2.5,78958,97966,557,Low
+M5,2024,North America,Red,Electric,Automatic,1.6,41616,33592,5711,Low
+M5,2024,North America,Silver,Diesel,Automatic,4.4,193591,103575,8145,High
+M5,2024,Middle East,White,Hybrid,Manual,4.8,191,63170,2022,Low
+M5,2024,Europe,Black,Petrol,Automatic,4.9,123560,67333,4726,Low
+M5,2024,Middle East,White,Diesel,Automatic,2.9,79718,40611,3242,Low
+M5,2024,North America,Red,Petrol,Manual,2.4,133075,96004,9224,High
+M5,2024,Asia,Blue,Electric,Automatic,1.8,180700,85369,9023,High
+M5,2024,Europe,Grey,Hybrid,Manual,1.9,133710,66815,2486,Low
+M5,2024,North America,Black,Petrol,Manual,3.1,101064,96471,962,Low
+M5,2024,Africa,Silver,Hybrid,Manual,3.2,25815,81428,7454,High
+M5,2024,Asia,White,Petrol,Manual,4.7,92585,41756,7080,High
+M5,2024,Middle East,Red,Electric,Manual,3.0,167510,73192,7609,High
+M5,2024,North America,White,Diesel,Automatic,4.7,127866,38848,1203,Low
+M5,2024,Europe,Grey,Petrol,Manual,4.1,128598,42137,8955,High
+M5,2024,Africa,Grey,Petrol,Automatic,4.3,102395,64943,8818,High
+M5,2024,Asia,Red,Diesel,Manual,1.7,104813,44925,7824,High
+M5,2024,Europe,White,Diesel,Manual,3.2,10779,111718,6341,Low
+M5,2024,Middle East,Black,Diesel,Manual,3.6,80467,94539,8496,High
+M5,2024,Africa,Black,Hybrid,Automatic,1.6,61237,96522,682,Low
+M5,2024,Europe,Black,Diesel,Manual,2.1,66883,92309,7454,High
+M5,2024,Europe,Black,Electric,Manual,2.7,51810,68596,4430,Low
+M5,2024,North America,Black,Petrol,Automatic,3.3,147542,86439,3722,Low
+M5,2024,South America,Blue,Diesel,Automatic,3.0,157192,114987,5916,Low
+M5,2024,Middle East,Red,Hybrid,Manual,1.8,42754,56199,7180,High
+M5,2024,South America,Grey,Electric,Manual,2.4,186073,68269,8390,High
+M5,2024,North America,White,Hybrid,Manual,2.7,46455,52103,956,Low
+M5,2024,Middle East,Blue,Electric,Automatic,2.9,40597,99242,7793,High
+M5,2024,Africa,Black,Hybrid,Automatic,4.5,183978,65561,9871,High
+M5,2024,Asia,Black,Diesel,Automatic,4.3,93468,82383,1539,Low
+M5,2024,North America,Silver,Petrol,Manual,3.4,164265,91123,4792,Low
+M5,2024,Europe,Grey,Hybrid,Automatic,2.1,163962,74299,5971,Low
+M5,2024,South America,Red,Diesel,Manual,4.8,163785,64908,6066,Low
+M5,2024,North America,Red,Electric,Manual,4.2,136894,59930,1013,Low
+M5,2024,North America,Silver,Electric,Manual,4.4,183341,103303,8665,High
+M5,2024,North America,Grey,Diesel,Manual,3.0,44008,107127,2701,Low
+M5,2024,Europe,Silver,Hybrid,Automatic,1.9,176547,32428,1272,Low
+M5,2024,Middle East,Black,Diesel,Automatic,3.6,172872,44827,8971,High
+M5,2024,Europe,Black,Hybrid,Automatic,3.1,14790,38729,4509,Low
+M5,2024,Europe,Silver,Hybrid,Manual,4.2,194626,87136,3783,Low
+M5,2024,Asia,Grey,Hybrid,Manual,4.3,177252,36539,5406,Low
+M5,2024,North America,Silver,Diesel,Automatic,3.9,88858,80152,6234,Low
+M5,2024,Europe,White,Petrol,Automatic,3.6,58063,74281,6999,Low
+M5,2024,Middle East,Silver,Electric,Manual,4.8,15437,71051,8585,High
+M5,2024,North America,Blue,Hybrid,Automatic,2.0,105482,106440,254,Low
+M5,2024,South America,White,Petrol,Manual,3.3,130904,46344,9445,High
+M5,2024,Africa,Blue,Diesel,Automatic,1.8,63367,76462,411,Low
+M5,2024,Asia,Red,Diesel,Manual,3.5,64504,74707,246,Low
+M5,2024,Middle East,Black,Diesel,Manual,2.9,98966,60187,5189,Low
+M5,2024,Middle East,Black,Electric,Automatic,3.3,140991,85851,8628,High
+M5,2024,Middle East,Blue,Hybrid,Manual,4.8,170219,113568,3939,Low
+M5,2024,Middle East,Red,Diesel,Manual,2.9,33595,105961,1720,Low
+M5,2024,Middle East,Black,Diesel,Manual,4.0,64172,70966,8063,High
+M5,2024,South America,Black,Electric,Automatic,1.6,81704,69442,4852,Low
+M5,2024,Asia,White,Petrol,Automatic,2.1,160484,94524,6789,Low
+M5,2024,Africa,Blue,Hybrid,Manual,3.1,22921,39807,9239,High
+M5,2024,Middle East,Grey,Diesel,Manual,2.8,93588,100364,964,Low
+M5,2024,Middle East,Blue,Diesel,Automatic,4.9,84148,74828,4031,Low
+M5,2024,Europe,Blue,Diesel,Manual,2.3,97568,77872,3749,Low
+M5,2024,North America,Grey,Hybrid,Manual,3.1,93754,32158,5361,Low
+M5,2024,North America,Black,Petrol,Automatic,2.5,180670,104071,721,Low
+M5,2024,Asia,Black,Diesel,Manual,4.7,126651,59206,184,Low
+M5,2024,North America,Grey,Hybrid,Manual,3.5,58207,94435,4870,Low
+M5,2024,Europe,Blue,Petrol,Automatic,1.8,186887,91494,8816,High
+M5,2024,South America,Black,Hybrid,Automatic,3.2,3373,102935,2252,Low
+M5,2024,South America,White,Petrol,Manual,3.4,85699,81108,385,Low
+M5,2024,Middle East,Grey,Electric,Automatic,2.5,195652,104929,955,Low
+M5,2024,North America,Grey,Electric,Automatic,4.8,173891,56120,3860,Low
+M5,2024,Europe,Grey,Hybrid,Automatic,4.6,169938,93825,5325,Low
+M5,2024,Africa,Blue,Diesel,Automatic,3.8,63898,64002,7449,High
+M5,2024,North America,Grey,Diesel,Automatic,2.2,193138,91369,2755,Low
+M5,2024,Middle East,White,Petrol,Automatic,2.6,130049,40959,4130,Low
+M5,2024,Asia,Grey,Electric,Manual,3.1,151224,109241,6528,Low
+M5,2024,Middle East,Blue,Diesel,Automatic,1.6,2710,89908,7963,High
+M5,2024,North America,Blue,Diesel,Automatic,1.5,139435,118281,1645,Low
+M5,2024,Europe,White,Diesel,Manual,4.5,145008,52079,2621,Low
+M5,2024,South America,Red,Petrol,Manual,4.9,111921,106565,4545,Low
+M5,2024,Europe,Silver,Petrol,Manual,1.9,136177,115149,386,Low
+M5,2024,Europe,Grey,Petrol,Automatic,3.8,148807,93049,3554,Low
+M5,2024,Asia,Black,Petrol,Automatic,2.0,83664,98081,6715,Low
+M5,2024,Europe,Grey,Electric,Manual,2.7,109045,39351,9892,High
+M5,2024,Africa,Black,Petrol,Manual,4.0,186831,51146,6925,Low
+M5,2024,Africa,Blue,Hybrid,Manual,1.6,105494,52261,5649,Low
+M5,2024,North America,Red,Diesel,Manual,3.4,99018,43837,2203,Low
+M5,2024,Middle East,Black,Hybrid,Manual,3.8,116523,95896,7229,High
+M5,2024,Asia,Blue,Petrol,Automatic,2.1,62353,107152,6114,Low
+M5,2024,Africa,White,Electric,Automatic,2.1,107117,51003,4590,Low
+M5,2024,South America,Red,Electric,Manual,3.3,106575,52065,1173,Low
+M5,2024,North America,Black,Electric,Automatic,4.5,46224,119414,4994,Low
+M5,2024,Europe,Black,Diesel,Automatic,4.6,7500,104372,4642,Low
+M5,2024,South America,Black,Electric,Manual,3.9,64002,105370,6078,Low
+M5,2024,Europe,Black,Petrol,Automatic,3.1,16751,89282,618,Low
+M5,2024,Middle East,White,Diesel,Automatic,2.3,117499,118781,8044,High
+M5,2024,Africa,Grey,Hybrid,Manual,3.8,45241,53975,6497,Low
+M5,2024,South America,Blue,Diesel,Manual,1.9,9694,75023,8673,High
+M5,2024,Asia,Grey,Hybrid,Manual,4.3,75183,56209,9975,High
+M5,2024,Europe,Red,Electric,Manual,4.1,138972,117714,4921,Low
+M5,2024,Africa,White,Hybrid,Automatic,4.7,120960,49225,7446,High
+M5,2024,Middle East,Red,Electric,Manual,2.1,37729,113082,8161,High
+M5,2024,Middle East,Red,Electric,Manual,1.7,156939,52313,6452,Low
+M5,2024,Asia,Black,Petrol,Manual,3.5,198223,35171,8640,High
+M5,2024,North America,Grey,Electric,Manual,3.9,106469,73769,3384,Low
+M5,2024,North America,Black,Diesel,Automatic,3.2,176960,83980,3649,Low
+M5,2024,Asia,Red,Petrol,Manual,4.1,34835,76431,1375,Low
+M5,2024,Asia,Blue,Electric,Automatic,4.2,129587,107536,9883,High
+M5,2024,Africa,Black,Hybrid,Manual,3.6,179037,40095,6900,Low
+M5,2024,Asia,Black,Hybrid,Automatic,2.0,87382,88258,9725,High
+M5,2024,Asia,Silver,Electric,Manual,1.5,193226,60406,4575,Low
+M5,2024,Africa,Black,Electric,Manual,2.5,171977,78539,3242,Low
+M5,2024,North America,Grey,Petrol,Automatic,3.1,199426,47342,4119,Low
+M5,2024,Africa,Blue,Diesel,Automatic,3.6,45578,60969,6208,Low
+M5,2024,Asia,White,Petrol,Manual,4.4,6340,69946,4109,Low
+M5,2024,Middle East,Black,Petrol,Automatic,2.6,114800,111965,2187,Low
+M5,2024,Asia,Grey,Hybrid,Automatic,2.3,13308,119773,6216,Low
+M5,2024,Africa,White,Petrol,Manual,4.1,129618,46134,4014,Low
+M5,2024,Europe,Blue,Diesel,Manual,2.2,186289,36087,8248,High
+M5,2024,Middle East,Grey,Diesel,Manual,2.7,1789,115425,192,Low
+M5,2024,Asia,Red,Diesel,Automatic,4.0,51422,57612,6685,Low
+M5,2024,Europe,Black,Electric,Manual,3.0,135637,43126,4333,Low
+M5,2024,North America,Black,Electric,Manual,2.1,195910,106079,3254,Low
+M5,2024,Middle East,Black,Diesel,Automatic,2.7,114045,50717,8642,High
+M5,2024,South America,White,Electric,Manual,3.2,132381,57159,6716,Low
+M5,2024,North America,Blue,Electric,Manual,2.7,127873,72331,7423,High
+M5,2024,Africa,White,Petrol,Manual,4.1,18727,87865,8228,High
+M5,2024,Europe,Red,Hybrid,Automatic,3.1,163639,71238,7770,High
+M5,2024,South America,Black,Electric,Automatic,2.3,155452,93032,2631,Low
+M5,2024,Europe,Silver,Petrol,Automatic,4.0,41219,32975,7704,High
+M5,2024,Asia,White,Electric,Automatic,2.2,117598,48018,570,Low
+M5,2024,North America,Grey,Petrol,Automatic,1.5,95053,34028,8235,High
+M5,2024,Europe,Silver,Diesel,Automatic,2.8,146553,47331,4904,Low
+M5,2024,Middle East,White,Petrol,Automatic,4.7,129347,104567,4529,Low
+M5,2024,South America,White,Diesel,Automatic,3.2,16002,112646,4264,Low
+M5,2024,Africa,Grey,Hybrid,Manual,4.1,57509,86204,975,Low
+M5,2024,Asia,Blue,Hybrid,Manual,2.7,128699,49345,6943,Low
+M5,2024,South America,Red,Petrol,Manual,4.8,32641,33822,2820,Low
+M5,2024,Africa,Grey,Electric,Manual,3.5,144298,55420,2249,Low
+M5,2024,Europe,Red,Diesel,Automatic,3.0,143745,32073,6920,Low
+M5,2024,North America,Black,Hybrid,Automatic,3.0,92564,52406,8101,High
+M5,2024,Asia,Silver,Hybrid,Manual,3.7,66304,103686,9578,High
+M5,2024,Africa,Blue,Electric,Manual,3.6,123248,62306,8433,High
+M5,2024,South America,Blue,Petrol,Manual,4.3,58018,115623,5869,Low
+M5,2024,North America,Grey,Hybrid,Automatic,2.1,79186,97912,5121,Low
+M5,2024,Europe,Red,Hybrid,Manual,2.1,168000,105884,717,Low
+M5,2024,North America,Silver,Petrol,Automatic,4.5,188423,31251,5858,Low
+M5,2024,South America,Black,Petrol,Automatic,3.7,84720,111846,5238,Low
+M5,2024,South America,Blue,Electric,Automatic,3.5,111226,53045,4704,Low
+M5,2024,Middle East,Red,Electric,Manual,1.9,69982,49727,4784,Low
+M5,2024,Middle East,Black,Petrol,Manual,4.2,94598,93002,4206,Low
+M5,2024,Middle East,Blue,Hybrid,Manual,4.6,104685,46516,6882,Low
+M5,2024,Africa,White,Electric,Automatic,3.4,112573,60436,1012,Low
+M5,2024,North America,Red,Hybrid,Automatic,1.7,131070,58187,3634,Low
+M5,2024,Europe,White,Electric,Automatic,1.9,195147,87823,2045,Low
+M5,2024,Asia,Grey,Diesel,Manual,2.5,120516,84894,5819,Low
+M5,2024,Africa,Grey,Diesel,Automatic,1.8,143516,48549,4393,Low
+M5,2024,North America,White,Hybrid,Manual,2.3,110833,62274,3532,Low
+M5,2024,North America,Silver,Petrol,Automatic,2.6,43669,44317,4594,Low
+M5,2024,Middle East,Blue,Electric,Automatic,1.8,157064,32246,7447,High
+M5,2024,Europe,Red,Petrol,Manual,3.7,128456,116005,878,Low
+M5,2024,North America,Red,Hybrid,Manual,2.0,150951,30291,3626,Low
+M5,2024,Asia,Blue,Petrol,Automatic,2.4,183433,64667,3027,Low
+M5,2024,South America,Blue,Electric,Automatic,3.3,189876,92538,8300,High
+M5,2024,Asia,Black,Hybrid,Automatic,3.4,2930,116412,6456,Low
+M5,2024,North America,Black,Hybrid,Manual,3.8,123847,83953,1399,Low
+M5,2024,North America,White,Petrol,Manual,4.4,89329,85100,2311,Low
+M5,2024,South America,Silver,Petrol,Manual,2.7,10724,45244,9752,High
+M5,2024,South America,White,Hybrid,Manual,3.8,40842,92162,6196,Low
+M5,2024,North America,Red,Diesel,Automatic,1.9,31474,30970,8304,High
+M5,2024,Middle East,White,Diesel,Manual,2.4,105945,66162,6849,Low
+M5,2024,Asia,Silver,Petrol,Manual,1.9,188066,42706,2808,Low
+M5,2024,Europe,White,Petrol,Manual,4.9,51655,85761,3569,Low
+M5,2024,Middle East,Grey,Petrol,Automatic,4.7,164734,67635,2186,Low
+M5,2024,Middle East,Grey,Diesel,Automatic,3.1,187690,37194,5578,Low
+M5,2024,Middle East,Black,Diesel,Manual,2.1,154678,75663,6521,Low
+M5,2024,Africa,Silver,Electric,Manual,3.4,8501,33368,7574,High
+M5,2024,Middle East,Blue,Diesel,Manual,1.7,82589,87131,3338,Low
+M5,2024,Africa,Blue,Diesel,Automatic,4.4,19117,69928,4187,Low
+M5,2024,Africa,Blue,Diesel,Automatic,3.6,49807,58869,1927,Low
+M5,2024,Europe,Blue,Diesel,Manual,4.6,126046,54042,9909,High
+M5,2024,Middle East,Red,Hybrid,Manual,3.0,4992,118041,1243,Low
+M5,2024,North America,Black,Electric,Manual,4.9,132374,98932,4110,Low
+M5,2024,Africa,Red,Petrol,Manual,4.2,85091,84223,7718,High
+M5,2024,Asia,Black,Electric,Automatic,2.9,167889,41387,6867,Low
+M5,2024,Africa,Blue,Hybrid,Automatic,4.6,183737,74455,1533,Low
+M5,2024,North America,Silver,Petrol,Automatic,4.4,168120,40456,7083,High
+M5,2024,North America,White,Diesel,Automatic,4.3,96361,46711,114,Low
+M5,2024,South America,White,Hybrid,Manual,3.7,79676,104276,7405,High
+M5,2024,Europe,White,Hybrid,Automatic,4.6,24607,61107,2254,Low
+M5,2024,South America,Black,Diesel,Manual,1.7,196487,54068,4057,Low
+M5,2024,Asia,Black,Petrol,Manual,3.5,180076,61442,8084,High
+M5,2024,Asia,Blue,Diesel,Automatic,3.3,123657,44016,4824,Low
+M5,2024,Middle East,Black,Electric,Automatic,2.8,89180,35633,5619,Low
+M5,2024,Africa,Grey,Diesel,Manual,2.7,177507,118965,4903,Low
+M5,2024,South America,Red,Hybrid,Manual,2.9,141179,105827,9113,High
+M5,2024,North America,Grey,Petrol,Manual,2.5,14859,56572,6634,Low
+M5,2024,Asia,Grey,Electric,Manual,1.8,94672,56414,667,Low
+M5,2024,South America,Blue,Petrol,Automatic,4.0,102391,105733,936,Low
+M5,2024,Asia,Black,Hybrid,Automatic,2.6,160181,80160,3979,Low
+M5,2024,South America,Black,Diesel,Manual,4.7,87480,60653,1919,Low
+M5,2024,Europe,Black,Diesel,Automatic,2.7,93723,58847,7451,High
+M5,2024,North America,Red,Hybrid,Automatic,3.4,193795,115639,3054,Low
+M5,2024,Africa,Grey,Hybrid,Automatic,2.9,79017,57225,4583,Low
+M5,2024,Asia,Red,Petrol,Manual,2.0,14165,39289,9579,High
+M5,2024,Middle East,Blue,Hybrid,Manual,4.6,1980,74883,6014,Low
+M5,2024,Africa,Grey,Petrol,Automatic,3.7,108137,61400,1664,Low
+M5,2024,Africa,Silver,Diesel,Manual,4.2,43290,89657,4993,Low
+M5,2024,Middle East,Grey,Diesel,Manual,2.1,27479,62491,4654,Low
+M5,2024,Asia,Red,Hybrid,Automatic,3.5,150714,32455,6976,Low
+M5,2024,South America,Blue,Diesel,Automatic,3.1,128734,63059,9425,High
+M5,2024,Africa,White,Electric,Manual,3.9,145475,47089,9455,High
+M5,2024,Middle East,Red,Petrol,Manual,2.4,33937,39273,9731,High
+M5,2024,North America,Red,Petrol,Automatic,4.2,194699,87829,4712,Low
+M5,2024,Africa,Red,Diesel,Automatic,4.9,127992,42684,7727,High
+M5,2024,Middle East,Silver,Electric,Manual,2.7,166401,72091,5888,Low
+M5,2024,Asia,Grey,Petrol,Automatic,4.6,130341,83383,7690,High
+M5,2024,South America,Black,Petrol,Manual,4.1,117242,38944,8402,High
+M5,2024,South America,Red,Hybrid,Automatic,3.5,144836,68333,3434,Low
+M5,2024,South America,Black,Petrol,Manual,5.0,109785,38050,6476,Low
+M5,2024,South America,White,Electric,Automatic,2.3,96686,32330,5792,Low
+M5,2024,Africa,Silver,Electric,Manual,1.7,85134,119411,810,Low
+M5,2024,North America,Black,Diesel,Automatic,2.4,26489,40282,5556,Low
+M5,2024,Middle East,Silver,Diesel,Manual,3.3,36345,72594,9817,High
+M5,2024,North America,Grey,Petrol,Manual,4.9,49062,40670,8803,High
+M5,2024,Europe,White,Electric,Manual,1.6,166846,45346,7780,High
+M5,2024,Europe,Blue,Electric,Automatic,2.9,118064,59967,9825,High
+M5,2024,North America,Blue,Petrol,Manual,2.7,153046,68158,4431,Low
+M5,2024,North America,White,Hybrid,Manual,2.7,107043,84465,8277,High
+M5,2024,Middle East,Red,Hybrid,Manual,2.0,173665,39802,7953,High
+M5,2024,North America,Red,Hybrid,Manual,3.2,147918,111554,5330,Low
+M5,2024,South America,Blue,Petrol,Automatic,4.1,111270,115032,4442,Low
+M5,2024,North America,Silver,Hybrid,Automatic,2.8,96398,58308,7384,High
+M5,2024,Europe,White,Electric,Manual,1.7,19659,117944,4409,Low
+M5,2024,Africa,Blue,Diesel,Automatic,2.4,187280,46848,202,Low
+M5,2024,Africa,Silver,Electric,Manual,4.0,96226,58880,3128,Low
+M5,2024,Africa,Red,Hybrid,Automatic,4.3,11825,104029,4932,Low
+M5,2024,Middle East,Silver,Petrol,Manual,2.1,995,48897,8980,High
+M5,2024,Europe,Silver,Hybrid,Manual,4.5,7991,111234,8589,High
+M5,2024,Asia,Red,Hybrid,Automatic,3.4,64327,55381,655,Low
+M5,2024,Asia,Blue,Petrol,Manual,3.8,91053,39298,7782,High
+M5,2024,Europe,White,Diesel,Automatic,3.5,132371,38910,755,Low
+M5,2024,Asia,Silver,Petrol,Automatic,2.1,184196,80409,4429,Low
+M5,2024,North America,Grey,Diesel,Manual,2.9,30143,51414,5499,Low
+M5,2024,Africa,Silver,Electric,Automatic,3.7,135332,44202,643,Low
+M5,2024,Asia,Blue,Petrol,Manual,2.3,25713,58153,1249,Low
+M5,2024,North America,Silver,Diesel,Automatic,5.0,160319,114436,6048,Low
+M5,2024,South America,Silver,Hybrid,Manual,4.3,94568,36516,1771,Low
+M5,2024,North America,Black,Electric,Manual,4.1,132962,58716,3818,Low
+M5,2024,South America,Black,Diesel,Manual,4.4,71777,31946,4568,Low
+M5,2024,Middle East,Grey,Petrol,Automatic,2.2,166758,52334,130,Low
+M5,2024,Middle East,Silver,Electric,Manual,2.0,68063,47606,9826,High
+M5,2024,North America,Silver,Petrol,Manual,4.8,187122,86754,2957,Low
+M5,2024,North America,Black,Hybrid,Manual,2.6,106060,56943,2176,Low
+M5,2024,Asia,Black,Petrol,Manual,4.1,168174,62963,2018,Low
+M5,2024,North America,Red,Diesel,Automatic,1.5,122462,53205,1002,Low
+M5,2024,North America,Grey,Petrol,Automatic,5.0,108471,115401,3301,Low
+M5,2024,Europe,Silver,Diesel,Automatic,2.8,81256,87484,7840,High
+M5,2024,Europe,Black,Diesel,Automatic,2.1,74384,78423,5533,Low
+M5,2024,South America,Silver,Diesel,Automatic,2.0,137865,69586,3444,Low
+M5,2024,South America,White,Hybrid,Manual,3.1,79076,95777,8030,High
+M5,2024,North America,Silver,Diesel,Manual,4.9,17006,68011,6636,Low
+M5,2024,Middle East,Blue,Hybrid,Automatic,2.1,193871,66082,4744,Low
+M5,2024,Middle East,Grey,Petrol,Automatic,2.1,92404,117104,3874,Low
+M5,2024,Middle East,Black,Electric,Automatic,3.0,102862,64573,7523,High
+M5,2024,Africa,Red,Hybrid,Manual,4.0,58149,78986,7464,High
+M5,2024,Europe,Grey,Hybrid,Manual,4.5,28961,105422,5916,Low
+M5,2024,Asia,Black,Petrol,Automatic,2.4,56605,106208,5677,Low
+M5,2024,Asia,White,Petrol,Manual,1.8,100784,86001,1314,Low
+M5,2024,Middle East,Black,Electric,Automatic,2.0,6521,104658,3491,Low
+M5,2024,Africa,Black,Hybrid,Automatic,3.1,198444,66510,3630,Low
+M5,2024,Asia,Red,Petrol,Automatic,3.1,108142,50418,8453,High
+M5,2024,Europe,Blue,Hybrid,Manual,1.8,17017,94178,6776,Low
+M5,2024,South America,Grey,Hybrid,Automatic,2.1,155546,35458,3319,Low
+M5,2024,Asia,Blue,Electric,Manual,1.6,14414,90686,9216,High
+M5,2024,Europe,Blue,Hybrid,Manual,4.8,74783,72637,6338,Low
+M5,2024,North America,Silver,Petrol,Manual,3.9,180354,97038,8227,High
+M5,2024,Europe,White,Diesel,Manual,2.0,84439,59026,8125,High
+M5,2024,Middle East,Black,Hybrid,Automatic,3.3,151731,83782,4177,Low
+M5,2024,Europe,Silver,Electric,Manual,3.6,18506,83093,5584,Low
+M5,2024,Middle East,Silver,Diesel,Automatic,1.9,60770,96476,4934,Low
+M5,2024,Asia,Red,Electric,Automatic,2.3,122769,81961,3872,Low
+M5,2024,North America,White,Petrol,Manual,1.9,134,106698,2975,Low
+M5,2024,North America,Grey,Hybrid,Manual,3.5,187371,84352,5709,Low
+M5,2024,Middle East,Grey,Hybrid,Automatic,2.4,82187,74662,1431,Low
+M5,2024,Asia,Black,Diesel,Manual,2.4,180726,46200,2823,Low
+M5,2024,Middle East,White,Hybrid,Automatic,4.6,93820,36766,7800,High
+M5,2024,North America,Silver,Hybrid,Manual,1.7,83667,107051,9234,High
+M5,2024,Africa,Silver,Electric,Manual,3.6,37932,71464,1197,Low
+M5,2024,Africa,Silver,Petrol,Automatic,3.4,65401,81082,9762,High
+M5,2024,Middle East,Silver,Hybrid,Manual,2.8,127680,30098,7798,High
+M5,2024,Africa,White,Petrol,Manual,3.3,37667,46767,7924,High
+M5,2024,Middle East,Black,Electric,Automatic,2.7,153349,77273,2539,Low
+M5,2024,Europe,Red,Electric,Automatic,2.1,142270,86264,1733,Low
+M5,2024,Africa,Silver,Diesel,Manual,1.8,120777,49471,5036,Low
+M5,2024,North America,Black,Electric,Manual,1.8,185283,108676,2977,Low
+M5,2024,South America,Silver,Electric,Automatic,2.4,123388,110987,9290,High
+M5,2024,Europe,Black,Electric,Manual,4.1,193121,46284,3818,Low
+M5,2024,Europe,White,Hybrid,Manual,4.0,85185,36820,7958,High
+M5,2024,Europe,Black,Petrol,Automatic,3.5,28819,95342,4692,Low
+M5,2024,Asia,Red,Electric,Automatic,4.6,10872,112218,6497,Low
+M5,2024,Europe,Blue,Electric,Manual,4.3,75454,71919,6172,Low
+M5,2024,Middle East,Blue,Electric,Manual,4.4,128649,97374,1813,Low
+M5,2024,Asia,Blue,Hybrid,Automatic,3.1,129906,53994,5329,Low
+M5,2024,Middle East,Blue,Hybrid,Manual,2.0,110005,84327,3350,Low
+M5,2024,Europe,Red,Diesel,Manual,4.5,114569,38547,838,Low
+M5,2024,Middle East,Red,Petrol,Automatic,1.8,6326,31475,3939,Low
+M5,2024,North America,Black,Electric,Manual,2.3,180465,79110,9961,High
+M5,2024,Africa,Silver,Diesel,Manual,1.5,171378,51863,1980,Low
